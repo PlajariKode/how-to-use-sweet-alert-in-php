@@ -4,8 +4,5 @@ How to use sweet alert is very easy, here I will put a sweet alert script in som
 # Reference
 https://sweetalert2.github.io/
 
-# Website
-https://www.plajarikode.com
-
-# Article
+## Article
 https://www.plajarikode.com/2020/05/cara-menggunakan-sweet-alert-pada-php.html
